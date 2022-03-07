@@ -1,1 +1,0 @@
-# resiklo-app
